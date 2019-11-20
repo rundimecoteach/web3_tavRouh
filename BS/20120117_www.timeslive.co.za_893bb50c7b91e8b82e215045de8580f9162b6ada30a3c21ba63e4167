@@ -1,0 +1,2241 @@
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+<p></p>
+<p>            var OA_zones = {</p>
+<p>                'sponsored_1':263,'sponsored_2':263,'sponsored_3':263,</p>
+<p>                'sponsored_4':263,'sponsored_5':263,'sponsored_6':263,</p>
+<p>                'sponsored_7':263,'sponsored_8':263,'sponsored_9':263,</p>
+<p>                'sponsored_10':263</p>
+<p>            }</p>
+<p>        </p>
+<p></p>
+<p></p>
+<p></p>
+<p>            var ord = 322497198544;</p>
+<p></p>
+<p>            jQuery(function(){</p>
+<p>	        var SelfLocation = window.location.href.split('?');</p>
+<p>	        switch (SelfLocation[1]) {</p>
+<p>                    case "justify_right":</p>
+<p>                        jQuery(".megamenu").megamenu({ 'justify':'right' });</p>
+<p>                        break;</p>
+<p>                    case "justify_left":</p>
+<p>                    default:</p>
+<p>                        jQuery(".megamenu").megamenu();</p>
+<p>	        }</p>
+<p>            });</p>
+<p>        </p>
+<p></p>
+<p></p>
+<p>    var _nolggGlobalParams = {</p>
+<p>        clientid:"us-502202",</p>
+<p>        vcid:"c20",</p>
+<p>        cisuffix:"",</p>
+<p>        sfcode:"za",</p>
+<p>        prod:"sc"</p>
+<p>    };</p>
+<p></p>
+<p></p>
+<p></p>
+<p>    var canUseSWF = false; // forces native mode</p>
+<p>    var uid = 0;</p>
+<p>    var gg1 = new gg();</p>
+<p>    gg1.ggInitialize(_nolggGlobalParams,uid,canUseSWF);</p>
+<p></p>
+<p>var _sf_startpt=(new Date()).getTime();</p>
+<p></p>
+<p>            Horse owner charged with animal cruelty - Times LIVE</p>
+<p></p>
+<p>        </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>  (function() {</p>
+<p>    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;</p>
+<p>    em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';</p>
+<p>    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);</p>
+<p>  })();</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sunday Times</p>
+<p>The Times</p>
+<p></p>
+<p>LIVE Sites</p>
+<p></p>
+<p>Sowetan LIVE</p>
+<p>Business LIVE</p>
+<p>Sport LIVE</p>
+<p>Sunday World</p>
+<p>Other Avusa Titles</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sign Up</p>
+<p></p>
+<p></p>
+<p>Sign In</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Please enter your login details</p>
+<p>You can also sign in with your Sowetan LIVE & Business LIVE account details.</p>
+<p>  </p>
+<p></p>
+<p>            Sign Up  </p>
+<p>            Forgot password?</p>
+<p></p>
+<p>                function setValue(pValue) {</p>
+<p>                    document.getElementById("hiddenProviderId").value = pValue;</p>
+<p>                    return true;</p>
+<p>                }</p>
+<p>            </p>
+<p></p>
+<p>Sign in with:</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Subscribe to our papers</p>
+<p>m.timeslive.co.za</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Times LIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Mbeki questions Twitter's usefulness </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>New SABC CEO appointed</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>    function GetUserProfile()</p>
+<p>    {</p>
+<p>        document.getElementById("getUserForm").submit();</p>
+<p></p>
+<p>    }</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>            document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/home_weather;sz=310x20;ord=' + ord + '?" type="text/javascript"><\/script>');</p>
+<p>        </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>                Tue Jan 17 17:11:29 SAST 2012</p>
+<p>27°Johannesburg </p>
+<p>                27°C / 16°C</p>
+<p></p>
+<p></p>
+<p>Set my city | 7 day forecast</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>News</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Home</p>
+<p></p>
+<p></p>
+<p>South Africa</p>
+<p></p>
+<p></p>
+<p>Africa</p>
+<p></p>
+<p></p>
+<p>World</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Home</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>47 die in another round of South Sudan tribal violence</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>British army defuses pipe bomb near Belfast school</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>South Africa's murder capital cities</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Clinton commends Ivory Coast justice effort</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Former cop jailed for 23 years for murder</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN South Africa</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>South Africa's murder capital cities</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Former cop jailed for 23 years for murder</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Rhino bull killed near Mossel Bay</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Recycling levy for tyres in February</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Ambulances not exempt from Chapman's Peak toll</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Africa</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>47 die in another round of South Sudan tribal violence</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Clinton commends Ivory Coast justice effort</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>South Sudan: Sudan stealing south's oil</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Lebanese probe finds Ethiopian airline crash due to pilot error</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Chevron: rig catches fire off Nigeria's delta</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN World</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>British army defuses pipe bomb near Belfast school</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Missing from cruise liner include 14 Germans, captain questioned</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Chinese dissident to stand trial for poem</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Polish condom market goes limp</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>'Mein Kampf' set for first German post-war reprint</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Politics</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Politics</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Politics</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>MPs tussle over info bill logistics</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>South Africa's murder capital cities</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Mbeki questions Twitter's usefulness </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Ka Plaatjie appointed to SABC board</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>False knowledge ended Gaddafi's rule, says Mbeki</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sport</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sport</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN SPORT</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Ancelotti mulls PSG shopping list</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Britain wins South Pole cricket match on Scott centenary</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Two injury withdrawals fro SA under-20s</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Djokovic has fun in the sun while Stosur wilts  </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Serena looks rusty on Melbourne Park return</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Business</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Business</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN BUSINESS</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Cabinet preps Zuma for state-of-nation address </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>SA needs '7% carat policies' to grow at 7% </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Fitch revises Outlook on SA banks to Negative</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Specter of Scorpions hangs over secrecy bill </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>EM overweight positions tick lower in January </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Entertainment</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Entertainment</p>
+<p></p>
+<p></p>
+<p>Celebrity</p>
+<p></p>
+<p></p>
+<p>Movies</p>
+<p></p>
+<p></p>
+<p>Music</p>
+<p></p>
+<p></p>
+<p>Gaming</p>
+<p></p>
+<p></p>
+<p>Puzzles & Games</p>
+<p></p>
+<p></p>
+<p>Horoscopes</p>
+<p></p>
+<p></p>
+<p>TV Guide</p>
+<p></p>
+<p></p>
+<p>Competitions</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Entertainment</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Polish singer fined for bad-mouthing Bible</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Durban heist film grosses R320k in first week</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>'The Artist', 'Tinker Tailor' sweep Bafta nominations</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Swift teases songs about heartbreak on next album</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Wonderful finale to Assassins Creed</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Celebrity</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Swift teases songs about heartbreak on next album</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Obsessed Kate Bush fan breaks into her house to propose</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Scientists name fly after Beyonce </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Whitney from 'The Hills' to show label at New York Fashion Week</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Kristen Stewart is the face of Balenciaga's new fragrance</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Movies</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Durban heist film grosses R320k in first week</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>'The Artist', 'Tinker Tailor' sweep Bafta nominations</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Quick review: Little Bit of Heaven*</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Close Up: Machine Gun Preacher</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>'The Artist' top Golden Globe winner</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Music</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Polish singer fined for bad-mouthing Bible</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Swift teases songs about heartbreak on next album</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Upcoming artists vie for Usher opening spot</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Lady Gaga's Born This Way 'sounds familiar': Madonna</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Newly discovered Brahms work set for world premiere</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Gaming</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Wonderful finale to Assassins Creed</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>'Angry Brides' game targets Indian dowry demands</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Gaming key to Sony profit rebound-executive</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>0101tv1WED</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>0101tv2WED</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Competitions</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Life & Style</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Life & Style</p>
+<p></p>
+<p></p>
+<p>Motoring</p>
+<p></p>
+<p></p>
+<p>Family</p>
+<p></p>
+<p></p>
+<p>Books LIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Life & Style</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Afghan calligrapher creates world's largest Koran</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Quick Reviews: 1701</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Exploring intimacy</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>'Last Werewolf' has serious bite</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Growth of world tourism slowing</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Motoring</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Carpocalypse Now</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>The Wanted List</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Safety milestone for Geely</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Festive wishes as MotorMania takes a break</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Taking back the streets</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Family</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Facebook group plans global Info Bill protests</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>New app charges you for skipping gym</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Fertility rates to drop, says SAIRR</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>I resolve to sort the memory snaps this year</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Dearth of black models at Rio fashion week sees call for quotas</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>                             </p>
+<p>                        </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Travel</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Travel</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Travel</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Accidental Tourist: Scamming the scammer</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Adventures on South Africa's Garden Route</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>My Kind of Holiday: Josette Eales</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Reader's Africa: Blazing a trail from Kenya to Cape Town</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Peter's Post: A quiet holiday during Bali's New Year</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Food</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Food</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Food</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Recipes for macho bachelors</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Christmas picks</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Weird meat website not for sensitive viewers</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>FESTIVE SETTING: Wish you a merry meal</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>The kos of true love </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sci-Tech</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sci-Tech</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Sci-Tech</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Recycling levy for tyres in February</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Swiss to return Greek silver</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>US may have caused Mars probe failure: Russia</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Top TV – Porn and censorship</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Palaeontologists find South America's oldest predator</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Opinion</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Opinion</p>
+<p></p>
+<p></p>
+<p>Columnists</p>
+<p></p>
+<p></p>
+<p>Editorials</p>
+<p></p>
+<p></p>
+<p>Commentary</p>
+<p></p>
+<p></p>
+<p>Blogs</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Opinion</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Top TV – Porn and censorship</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Clearing the bonus debacle will restore Cricket SA's image</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Live concert etiquette</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>'Sick' ANC must return to putting the people first</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Hogarth: 15 January 2012</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Columnists</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Top TV – Porn and censorship</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Clearing the bonus debacle will restore Cricket SA's image</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>City needs lesson in elegance</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Race to the South Pole</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Only human after all</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Editorials</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Red flag for green paper: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Nature as vital as nurture: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Wary of e-toll delay tactics: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>UJ staff behave like bouncers: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Africa must unite to take back riches: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN Commentary</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>So many questions: Phillip Dexter</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Our pass rate focus is too narrow</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>And now, a word from Zzzzzzuma</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Obituary: Zithulele Sinqe: legend of long-distance running</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Learning to give back to our communities</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>                             </p>
+<p>                        </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Videos</p>
+<p></p>
+<p></p>
+<p>iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>LATEST IN iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Red flag for green paper: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Nature as vital as nurture: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Wary of e-toll delay tactics: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>UJ staff behave like bouncers: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Africa must unite to take back riches: iLIVE</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>        </p>
+<p>                     </p>
+<p>                </p>
+<p>Latest</p>
+<p></p>
+<p></p>
+<p></p>
+<p>previous</p>
+<p>next</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Swaziland state paper fires editor after democracy interviews</p>
+<p>47 die in another round of South Sudan tribal violence</p>
+<p>British army defuses pipe bomb near Belfast school</p>
+<p>A tale of four cities</p>
+<p>Clinton commends Ivory Coast justice effort</p>
+<p>Former cop jailed for 23 years for murder</p>
+<p>Polish singer fined for bad-mouthing Bible</p>
+<p>Rhino bull killed near Mossel Bay</p>
+<p>Recycling levy for tyres in February</p>
+<p>Durban heist film grosses R320k in first week</p>
+<p>Swiss to return Greek silver</p>
+<p>Missing from cruise liner include 14 Germans, captain questioned</p>
+<p>Ambulances not exempt from Chapman's Peak toll</p>
+<p>South Sudan: Sudan stealing south's oil</p>
+<p>Chinese dissident to stand trial for poem</p>
+<p>Polish condom market goes limp</p>
+<p>Henning murder case postponed</p>
+<p></p>
+<p></p>
+<p></p>
+<p>                </p>
+<p>                     </p>
+<p>                </p>
+<p></p>
+<p></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>                        </p>
+<p>                         </p>
+<p>                </p>
+<p></p>
+<p></p>
+<p>Property</p>
+<p>|</p>
+<p>Cars</p>
+<p>|</p>
+<p>Jobs</p>
+<p>Find</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>    Tue Jan 17 17:51:37 SAST 2012</p>
+<p></p>
+<p>    var CurrentUserID = 74019;</p>
+<p>    var CurrentArticleID = 3637984;</p>
+<p></p>
+<p></p>
+<p></p>
+<p>document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=top;tile=2;dcopt=ist;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>HIV slur: girls fuming</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Home</p>
+<p>South Africa</p>
+<p>Article</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Horse owner charged with animal cruelty</p>
+<p></p>
+<p></p>
+<p>        Sapa | 2012-01-17 07:03:10.0</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>        Brown horse. File photo.</p>
+<p>Image by: Gallo Images/Thinkstock</p>
+<p></p>
+<p></p>
+<p>Save & Share</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Tweet</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Email</p>
+<p>Print</p>
+<p></p>
+<p></p>
+<p>document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=left;tile=3;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');</p>
+<p></p>
+<p></p>
+<p></p>
+<p>            The SPCA says a man has been charged with animal cruelty after he allegedly neglected to care for his horses, resulting them in being put down in Vereeniging, Gauteng on Monday.</p>
+<p>"The horses were underweight and had problematic hooves which caused severe pain and suffering," said Society for the Prevention of Cruelty to Animals' Vereeniging manager Marlien Pieterse in a statement.</p>
+<p>The owner had ignored warnings by the SPCA to get the two horses and a foal treated. The foal was born with a severely deformed mouth which caused severe pain whilst eating.</p>
+<p>"The owner refused to hand the horses over to the SPCA and became verbally abusive towards our inspectors."</p>
+<p>A warrant was obtained from the Vereeniging Magistrate's Court and the police called to help.</p>
+<p>"All three equine had to be humanely destroyed under instruction of a veterinarian and equine specialist."</p>
+<p>Pieterse said if the owner had treated the animals sooner, they would not have had to be put down.</p>
+<p>The owner was expected to be prosecuted in terms of the Animals Protection Act.</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Save & Share</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Tweet</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>SHARE YOUR OPINION</p>
+<p>                </p>
+<p>                If you have an opinion you would like to share on this article,</p>
+<p>                please send us an e-mail</p>
+<p>                to the Times LIVE iLIVE team. In the mean time, click here</p>
+<p>                to view the Times LIVE iLIVE section.</p>
+<p>            </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=top;tile=4;sz=300x600,300x250;ord=' + ord + '?" type="text/javascript"><\/script>');</p>
+<p></p>
+<p></p>
+<p></p>
+<p>Most Popular</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Today</p>
+<p>This Month</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>1</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Strippers a hit in Cape court</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>2</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Ali Bacher fights to protect his legacy</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>3</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>New SABC CEO appointed</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>4</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Recall of 3350 SA Minis</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>5</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>The 'monster' turns up for a shower</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>1</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>ANC appeals to clan to rein in Mandla Mandela</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>2</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Zapiro cartoons</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>3</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Lawyer in row over R1m bling</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>4</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Car remote blocking crime on the rise: how to protect yourself </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>5</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>IEB matric results release approved </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Read more popular stories</p>
+<p></p>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+<p>Mom's errand of love cut short by tragedy</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+<p>SA private schooling cheaper than UK, US</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+<p>Banned SA doc resurfaces in the Cape</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+<p>Aim higher, Oprah tells SA</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+<p>North West farmer killed, wife assaulted</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>document.write('<script language="JavaScript" src="http://ad.za.doubleclick.net/adj/timeslive2/news_south_africa;pos=bottom;tile=5;sz=300x250,45x45;ord=' + ord + '?" type="text/javascript"><\/script>');</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>google_ad_client = "ca-pub-0370095952508018";</p>
+<p>google_ad_slot = "5822129054";</p>
+<p>google_ad_width = 300;</p>
+<p>google_ad_height = 250;</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Sponsored Links</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_1');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_2');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_3');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_4');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_5');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_6');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_7');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_8');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_9');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p>                    <!--// <![CDATA[</p>
+<p>                    OA_show('sponsored_10');</p>
+<p>                    //]]>--></p>
+<p>                </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><!--//<![CDATA[</p>
+<p>   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');</p>
+<p>   var m3_r = Math.floor(Math.random()*99999999999);</p>
+<p>   if (!document.MAX_used) document.MAX_used = ',';</p>
+<p>   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);</p>
+<p>   document.write ("?zoneid=275");</p>
+<p>   document.write ('&amp;cb=' + m3_r);</p>
+<p>   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);</p>
+<p>   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));</p>
+<p>   document.write ("&amp;loc=" + escape(window.location));</p>
+<p>   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));</p>
+<p>   if (document.context) document.write ("&context=" + escape(document.context));</p>
+<p>   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");</p>
+<p>   document.write ("'><\/scr"+"ipt>");</p>
+<p>//]]>--></p>
+<p></p>
+<p><!--//<![CDATA[</p>
+<p>   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');</p>
+<p>   var m3_r = Math.floor(Math.random()*99999999999);</p>
+<p>   if (!document.MAX_used) document.MAX_used = ',';</p>
+<p>   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);</p>
+<p>   document.write ("?zoneid=276");</p>
+<p>   document.write ('&amp;cb=' + m3_r);</p>
+<p>   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);</p>
+<p>   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));</p>
+<p>   document.write ("&amp;loc=" + escape(window.location));</p>
+<p>   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));</p>
+<p>   if (document.context) document.write ("&context=" + escape(document.context));</p>
+<p>   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");</p>
+<p>   document.write ("'><\/scr"+"ipt>");</p>
+<p>//]]>--></p>
+<p></p>
+<p><!--//<![CDATA[</p>
+<p>   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');</p>
+<p>   var m3_r = Math.floor(Math.random()*99999999999);</p>
+<p>   if (!document.MAX_used) document.MAX_used = ',';</p>
+<p>   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);</p>
+<p>   document.write ("?zoneid=277");</p>
+<p>   document.write ('&amp;cb=' + m3_r);</p>
+<p>   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);</p>
+<p>   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));</p>
+<p>   document.write ("&amp;loc=" + escape(window.location));</p>
+<p>   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));</p>
+<p>   if (document.context) document.write ("&context=" + escape(document.context));</p>
+<p>   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");</p>
+<p>   document.write ("'><\/scr"+"ipt>");</p>
+<p>//]]>--></p>
+<p></p>
+<p><!--//<![CDATA[</p>
+<p>   var m3_u = (location.protocol=='https:'?'https://ads.avusa.co.za/www/delivery/ajs.php':'http://ads.avusa.co.za/www/delivery/ajs.php');</p>
+<p>   var m3_r = Math.floor(Math.random()*99999999999);</p>
+<p>   if (!document.MAX_used) document.MAX_used = ',';</p>
+<p>   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);</p>
+<p>   document.write ("?zoneid=278");</p>
+<p>   document.write ('&amp;cb=' + m3_r);</p>
+<p>   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);</p>
+<p>   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));</p>
+<p>   document.write ("&amp;loc=" + escape(window.location));</p>
+<p>   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));</p>
+<p>   if (document.context) document.write ("&context=" + escape(document.context));</p>
+<p>   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");</p>
+<p>   document.write ("'><\/scr"+"ipt>");</p>
+<p>//]]>--></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Main Menu</p>
+<p></p>
+<p>News</p>
+<p>Politics</p>
+<p>Sport</p>
+<p>Business</p>
+<p>Entertainment</p>
+<p>Life & Style</p>
+<p>Travel</p>
+<p>Food</p>
+<p>Sci-Tech</p>
+<p>Opinion</p>
+<p>Videos</p>
+<p>iLive</p>
+<p>Blogs</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Our Network</p>
+<p></p>
+<p>Times LIVE Dating</p>
+<p>Sowetan LIVE</p>
+<p>Sport LIVE</p>
+<p>Sunday World</p>
+<p>Books LIVE</p>
+<p>Business LIVE</p>
+<p>Avusa Media LIVE</p>
+<p></p>
+<p></p>
+<p>Social Network</p>
+<p></p>
+<p>Facebook Page</p>
+<p>Twitter</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Partner Sites</p>
+<p></p>
+<p>Exclusive Books</p>
+<p>Junction Sites</p>
+<p>    Career</p>
+<p>    Auto</p>
+<p>    Property</p>
+<p>BDFM</p>
+<p>Map IT</p>
+<p>NuMetro</p>
+<p>I-Net Bridge</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Online Services</p>
+<p></p>
+<p>Advertise Online</p>
+<p>Subscribe To Newsletter</p>
+<p>Competitions</p>
+<p>Mobile</p>
+<p>RSS Feeds</p>
+<p>Syndication</p>
+<p></p>
+<p></p>
+<p>Print Services</p>
+<p></p>
+<p>Advertise In Print</p>
+<p>Subscription Services</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Projects</p>
+<p></p>
+<p>Food Awards</p>
+<p>Heritage Project</p>
+<p>ReadRight</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Contact Us</p>
+<p></p>
+<p>Contact Details</p>
+<p></p>
+<p></p>
+<p>Other</p>
+<p></p>
+<p>Site Map</p>
+<p>Terms & Conditions</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Times LIVE</p>
+<p>            © 2011 AVUSA, Inc. All rights reserved.</p>
+<p>            Use of this site constitutes acceptance of our Terms & Conditions and Privacy Policy.</p>
+<p>            </p>
+<p>            </p>
+<p></p>
+<p>DMMA</p>
+<p></p>
+<p> </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>            $(function(){</p>
+<p>                // Option set as a global variable</p>
+<p>                $.fn.loopedSlider.defaults.addPagination = true;</p>
+<p></p>
+<p>                $('#loopedSliderAggregator').loopedSlider({</p>
+<p>                	autoHeight: 600,</p>
+<p>                	autoStart: false,</p>
+<p>                    hoverPause: true,</p>
+<p>                    pagination:"aggregatorPagination",</p>
+<p>                    containerClick: false</p>
+<p>                });</p>
+<p>                $('#loopedSliderColumnists').loopedSlider({</p>
+<p>                	autoHeight: 600,</p>
+<p>                	autoStart: false,</p>
+<p>                    hoverPause: true,</p>
+<p>                    pagination:"aggregatorPagination",</p>
+<p>                    containerClick: false</p>
+<p>                });</p>
+<p>                $('#loopedSlider').loopedSlider({</p>
+<p>                    autoHeight: 600,</p>
+<p>                    hoverPause: true</p>
+<p>                });</p>
+<p>                $('#sectionloopedslider').loopedSlider({</p>
+<p>                    autoHeight: 600,</p>
+<p>                    autoStart: 8000,</p>
+<p>                    hoverPause: true,</p>
+<p>                    addPagination: false,</p>
+<p>                    containerClick:false</p>
+<p>                });</p>
+<p>                $('#headlineloopedslider').loopedSlider({</p>
+<p>                    autoStart: 6000,</p>
+<p>                    autoHeight: 600,</p>
+<p>                    hoverPause: true,</p>
+<p>                    addPagination: false,</p>
+<p>                    containerClick:false</p>
+<p>                });</p>
+<p>            });</p>
+<p>        </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>    var _gaq = _gaq || [];</p>
+<p>    _gaq.push(['_setAccount', 'UA-9714899-1']);</p>
+<p>    _gaq.push(['_trackPageview']);</p>
+<p>    _gaq.push(['_trackPageLoadTime']);</p>
+<p></p>
+<p>    (function() {</p>
+<p>        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;</p>
+<p>        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';</p>
+<p>        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);</p>
+<p>    })();</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
