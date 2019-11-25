@@ -1,54 +1,58 @@
-from ex3.cleanevaluationtool import *
-from importlib.metadata import files
-import os
-import time
+from ex3.cleaneval_tool import *
 import langid
+import os
 
+eval = {}
 
 pathHtml = "../Corpus_detourage/html/"
-pathClean = "../Corpus_detourage/clean/"
 pathJT = "../JT/"
 pathJT_langid = "../JT_langid/"
 pathBS = "../BS/"
-pathJT_Truelg = "../JT_TrueLg/"
-lang = langid.classify(s)
+pathJT_Truelg = "../JT_trueLg/"
 
-def evalIntrin(path):
-    results = {
+def instrinseque(path):
+    pathClean = "../Corpus_detourage/clean/"
+
+    resultats = {
         'el': {'f-score': 0, 'precision': 0, 'recall': 0},
         'en': {'f-score': 0, 'precision': 0, 'recall': 0},
         'pl': {'f-score': 0, 'precision': 0, 'recall': 0},
         'ru': {'f-score': 0, 'precision': 0, 'recall': 0},
         'zh': {'f-score': 0, 'precision': 0, 'recall': 0},
-        'all': {'f-score': 0, 'precision': 0, 'recall': 0},
+        'all': {'f-score': 0, 'precision': 0, 'recall': 0}
     }
 
-    for f in files:
-        if os.path.isfile(path + f) and os.path.getsize(path + f)>0:
-            file = open(pathHtml + f, 'r', encoding='utf8', errors="ignore")
+    for f in os.listdir(path):
+        if os.stat(pathJT + f).st_size != 0:
+
+            file = open(pathJT + f, 'r', encoding='ISO-8859-1', errors="ignore")
             s = file.read()
         else:
-            file = open(pathJT + f, 'r', encoding='utf8', errors="ignore")
+            file = open("../Corpus_detourage/html/" + f, 'r', encoding='ISO-8859-1', errors="ignore")
             s = file.read()
 
-        evaluation = {'f-score': 0, 'precision': 0, 'recall': 0, }
+        lang = langid.classify(s)
+
+        print(path + f)
+        print(pathClean + f)
 
         evaluation = evaluate_file(path + f, pathClean + f)
 
-        results[lg[0]]['f-score'] += evaluation['f-score']
-        results[lg[0]]['precision'] += evaluation['precision']
-        results[lg[0]]['recall'] += evaluation['recall']
+        resultats[lang[0]]['f-score'] += evaluation['f-score']
+        resultats[lang[0]]['precision'] += evaluation['precision']
+        resultats[lang[0]]['recall'] += evaluation['recall']
 
-        results['all']['f-score'] += evaluation['f-score']
-        results['all']['precision'] += evaluation['precision']
-        results['all']['recall'] += evaluation['recall']
+        resultats['all']['f-score'] += evaluation['f-score']
+        resultats['all']['precision'] += evaluation['precision']
+        resultats['all']['recall'] += evaluation['recall']
 
-    for k in results:
-        for i in results[k]:
-            results[k][i] = results[k][i] / len(files)
+    for k in resultats:
+        for i in resultats[k]:
+            resultats[k][i] = resultats[k][i] / len(f)
 
-    return results
+    return resultats
 
-evaluate["JT"] = evalIntrin(pathJT)
-evaluate["JT_langid"] = evalIntrin(pathJT_langid)
-evaluate["JT_Truelg"] = evalIntrin(pathJT_Truelg)
+if __name__ == '__main__':
+    eval["JT"] = instrinseque(pathJT)
+    eval["JT_langid"] = instrinseque(pathJT_langid)
+    eval["JT_trueLg"] = instrinseque(pathJT_Truelg)
